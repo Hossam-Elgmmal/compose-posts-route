@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Compose Facebook posts</string>
+
+    <string name="dining">All I know is fine dining and breathing.</string>
+    <string name="friends">F is for friends who do stuff together!</string>
+    <string name="jelly">If you believe in yourself, with a tiny pinch of magic all your dreams can come true!</string>
+
+    <string name="time_1">1 hr</string>
+    <string name="time_2">2 hrs</string>
+    <string name="time_3">3 hrs</string>
+</resources>
