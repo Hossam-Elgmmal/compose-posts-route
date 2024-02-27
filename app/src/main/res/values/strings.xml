@@ -8,4 +8,15 @@
     <string name="time_1">1 hr</string>
     <string name="time_2">2 hrs</string>
     <string name="time_3">3 hrs</string>
+
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="likes_count">112</string>
+    <string name="likes_description">Likes count</string>
+    <string name="public_icon">public</string>
+    <string name="profile_description">profile picture</string>
+    <string name="username">SpongeBob</string>
+    <string name="post_image">post image</string>
+    <string name="options">Options</string>
 </resources>
